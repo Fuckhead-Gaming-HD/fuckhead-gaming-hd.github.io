@@ -1,0 +1,14 @@
+{
+"companyName": "Monet Labs",
+"productName": "Block City Wars",
+"dataUrl": "11ae64ca8f0e8560111411b68148e56e.unityweb",
+"asmCodeUrl": "8d275a9b9b9af77e36c9d9f5693e1679.unityweb",
+"asmMemoryUrl": "16252bfff7e8a9fa1ec98ed0ebd232b8.unityweb",
+"asmFrameworkUrl": "934898ee0c31801d7f9728b549a126a0.unityweb",
+"TOTAL_MEMORY": 1073741824,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
